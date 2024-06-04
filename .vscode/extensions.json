@@ -1,0 +1,33 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"mechatroner.rainbow-csv",
+		"njpwerner.autodocstring",
+		"aaron-bond.better-comments",
+		"grapecity.gc-excelviewer",
+		"mhutchie.git-graph",
+		"donjayamanne.githistory",
+		"github.vscode-github-actions",
+		"ms-python.isort",
+		"ms-toolsai.jupyter",
+		"ms-toolsai.vscode-jupyter-cell-tags",
+		"ms-toolsai.jupyter-keymap",
+		"ms-toolsai.jupyter-renderers",
+		"ms-toolsai.vscode-jupyter-slideshow",
+		"fnando.linter",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"ms-python.debugpy",
+		"gruntfuggly.todo-tree",
+		"mikoz.black-py",
+		"ms-python.black-formatter"
+		
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}

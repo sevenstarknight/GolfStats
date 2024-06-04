@@ -3,7 +3,7 @@ Golf Statistics Analysis
 
 ## Prerequisites
 
-- Build a virtual environment ([How-To](https://python.plainenglish.io/python-virtual-environments-explained-78d5a040f963)
+- Build a virtual environment ([How-To](https://python.plainenglish.io/python-virtual-environments-explained-78d5a040f963))
   -  in a terminal window: python -m venv venv
   -  activate the virtual env: 
     - Linux: `source ./venv/bin/activate`  
